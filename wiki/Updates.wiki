@@ -1,11 +1,5 @@
-#summary One-sentence summary of this page.
+#summary This page holds the updates about the changes made in the project.
 
-= Introduction =
+= Project Updates =
 
-This page holds the updates about the changes made in the project.
-
-
-= Details =
-
-*Updates*
 1- 7/1/2008 :: Alphatrim filter added to the Image.cs functionalities & some bugs in the UI fixed.
